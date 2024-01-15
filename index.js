@@ -39,4 +39,4 @@ console.log(typeof box);
  
 
 let numbers = 10;
-console.log(String(numbers));
+console.log(String(numbers)); 
